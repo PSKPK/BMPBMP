@@ -3,7 +3,7 @@
 - RGBStarting
 - Width range estimation
 - Consider padding
-
+- Image of each strip
 
 DID :
  - Width estimation using sir algo
