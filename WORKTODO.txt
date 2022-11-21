@@ -2,3 +2,14 @@
 - Find&Union
 - RGBStarting
 - Width range estimation
+- Consider padding
+
+
+DID :
+ - Width estimation using sir algo
+ - Ordering of given clusters
+ - Image generation
+ - Header understanding
+ - Cluster generation
+ - FAT table analysis
+ 
